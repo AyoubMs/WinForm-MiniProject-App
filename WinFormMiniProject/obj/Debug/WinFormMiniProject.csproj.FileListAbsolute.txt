@@ -1,0 +1,15 @@
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe.config
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.exe
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\WinFormMiniProject.pdb
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\DemoLibrary1.dll
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\bin\Debug\DemoLibrary1.pdb
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.PersonEntry.resources
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.Properties.Resources.resources
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.csproj.CopyComplete
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.exe
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.pdb
+C:\Users\ayoub\source\repos\WinFormMiniProjectApp\WinFormMiniProject\obj\Debug\WinFormMiniProject.AddressEntry.resources

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XQISRwTmIS5kCXH4QOK+26Oby6VJWDCerlBW2b5WRX3AVqEFBOo7nEoip1dsZcy7mpz5uNpL8B7mqt/10zd1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayoub\\source\\repos\\WinFormMiniProjectApp\\DemoLibrary1\\DemoLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayoub\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ayoub\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
